@@ -1,0 +1,17 @@
+{
+  "name": "scriptkeep",
+  "version": "1.0.0",
+  "description": "A typing helper for useful snippets",
+  "main": "main.js",
+  "author": "Xattle",
+  "devDependencies": {
+    "electron": "^13.1.7",
+    "electron-rebuild": "^2.3.5"
+  },
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "robotjs": "git+https://github.com/octalmage/robotjs.git"
+  }
+}
